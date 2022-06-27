@@ -1,9 +1,8 @@
-////////////////////////////////////
-// ECE 150: Project 3
-//
+/////////////////////////////////////////////////////////////////////////////////////
+// Project: Geesespotter
 // Authors: Bowen Zheng
-// g++ -o main geesespotter.cpp geesespotter_lib.cpp -std=c++11
-////////////////////////////////////
+// Compile and run with: g++ -o main geesespotter.cpp geesespotter_lib.cpp -std=c++11
+/////////////////////////////////////////////////////////////////////////////////////
 
 #include "geesespotter_lib.h"
 
@@ -100,7 +99,6 @@ void hideBoard(char * board, std::size_t xdim, std::size_t ydim)
     }
     //hide all board elements
     //board is a character array --> hidden fields
-
 }
 
 void cleanBoard(char * board)
