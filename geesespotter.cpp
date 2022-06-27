@@ -1,7 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////////////
 // Project: Geesespotter
 // Authors: Bowen Zheng
-// Compile and run with: g++ -o main geesespotter.cpp geesespotter_lib.cpp -std=c++11
+// compile and run this program with command:
+// g++ -o main geesespotter.cpp geesespotter_lib.cpp -std=c++11
 /////////////////////////////////////////////////////////////////////////////////////
 
 #include "geesespotter_lib.h"
